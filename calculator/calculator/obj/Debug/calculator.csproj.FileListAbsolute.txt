@@ -1,0 +1,16 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\MainWindow.g.cs
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\App.g.cs
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator_MarkupCompile.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator_MarkupCompile.lref
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\MainWindow.baml
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.g.resources
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache

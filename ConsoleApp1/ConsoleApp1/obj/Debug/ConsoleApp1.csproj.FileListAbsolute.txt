@@ -1,0 +1,7 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

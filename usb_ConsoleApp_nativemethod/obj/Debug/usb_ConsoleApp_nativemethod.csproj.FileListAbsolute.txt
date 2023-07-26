@@ -1,0 +1,8 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\bin\Debug\usb_ConsoleApp_nativemethod.exe.config
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\bin\Debug\usb_ConsoleApp_nativemethod.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\bin\Debug\usb_ConsoleApp_nativemethod.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\obj\Debug\usb_ConsoleApp_nativemethod.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\obj\Debug\usb_ConsoleApp_nativemethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\obj\Debug\usb_ConsoleApp_nativemethod.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\obj\Debug\usb_ConsoleApp_nativemethod.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\usb_ConsoleApp_nativemethod\obj\Debug\usb_ConsoleApp_nativemethod.pdb

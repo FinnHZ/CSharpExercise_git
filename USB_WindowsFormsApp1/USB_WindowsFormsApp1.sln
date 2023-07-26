@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USB_WindowsFormsApp1", "USB_WindowsFormsApp1.csproj", "{00D2A474-7671-4874-9BC1-88A061AAACCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00D2A474-7671-4874-9BC1-88A061AAACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D2A474-7671-4874-9BC1-88A061AAACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D2A474-7671-4874-9BC1-88A061AAACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D2A474-7671-4874-9BC1-88A061AAACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0199D991-67BD-450D-86D2-9B88873E4C82}
+	EndGlobalSection
+EndGlobal

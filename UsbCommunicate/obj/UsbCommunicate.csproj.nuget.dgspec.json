@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\f.he\\OneDrive - AuCom Group\\Desktop\\materials\\New folder(c#)\\UsbCommunicate\\UsbCommunicate.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\f.he\\OneDrive - AuCom Group\\Desktop\\materials\\New folder(c#)\\UsbCommunicate\\UsbCommunicate.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\f.he\\OneDrive - AuCom Group\\Desktop\\materials\\New folder(c#)\\UsbCommunicate\\UsbCommunicate.csproj",
+        "projectName": "UsbCommunicate",
+        "projectPath": "C:\\Users\\f.he\\OneDrive - AuCom Group\\Desktop\\materials\\New folder(c#)\\UsbCommunicate\\UsbCommunicate.csproj",
+        "packagesPath": "C:\\Users\\f.he\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\f.he\\OneDrive - AuCom Group\\Desktop\\materials\\New folder(c#)\\UsbCommunicate\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\f.he\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

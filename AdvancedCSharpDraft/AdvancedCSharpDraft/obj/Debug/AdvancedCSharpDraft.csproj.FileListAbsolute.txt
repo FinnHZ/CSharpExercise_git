@@ -1,0 +1,8 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\bin\Debug\AdvancedCSharpDraft.exe.config
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\bin\Debug\AdvancedCSharpDraft.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\bin\Debug\AdvancedCSharpDraft.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\obj\Debug\AdvancedCSharpDraft.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\obj\Debug\AdvancedCSharpDraft.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\obj\Debug\AdvancedCSharpDraft.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\obj\Debug\AdvancedCSharpDraft.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\AdvancedCSharpDraft\AdvancedCSharpDraft\obj\Debug\AdvancedCSharpDraft.pdb

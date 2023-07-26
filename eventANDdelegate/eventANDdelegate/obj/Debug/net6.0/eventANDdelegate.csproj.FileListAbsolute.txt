@@ -1,0 +1,15 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\bin\Debug\net6.0\eventANDdelegate.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\bin\Debug\net6.0\eventANDdelegate.deps.json
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\bin\Debug\net6.0\eventANDdelegate.runtimeconfig.json
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\bin\Debug\net6.0\eventANDdelegate.dll
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\bin\Debug\net6.0\eventANDdelegate.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.AssemblyInfoInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.AssemblyInfo.cs
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.dll
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\refint\eventANDdelegate.dll
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\eventANDdelegate.genruntimeconfig.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\eventANDdelegate\eventANDdelegate\obj\Debug\net6.0\ref\eventANDdelegate.dll

@@ -1,0 +1,13 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\bin\Debug\USB_ConsoleApp1.exe.config
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\bin\Debug\USB_ConsoleApp1.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\bin\Debug\USB_ConsoleApp1.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\obj\Debug\USB_ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\obj\Debug\USB_ConsoleApp1.csproj.CopyComplete
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\obj\Debug\USB_ConsoleApp1.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\obj\Debug\USB_ConsoleApp1.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\bin\Debug\HidLibrary.dll
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\bin\Debug\HidLibrary.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\obj\Debug\USB_ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\USB_ConsoleApp1\obj\Debug\USB_ConsoleApp1.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,14 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\bin\Debug\SMS.exe.config
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\bin\Debug\SMS.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\bin\Debug\SMS.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.Form1.resources
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.Properties.Resources.resources
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.UserControl1.resources
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.csproj.GenerateResource.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.UserControl2.resources
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\StoreManagementSystem\SMS\obj\Debug\SMS.SelfNaveBar.resources

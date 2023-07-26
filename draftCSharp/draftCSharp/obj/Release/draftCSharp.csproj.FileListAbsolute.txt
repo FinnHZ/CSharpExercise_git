@@ -1,0 +1,3 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\draftCSharp\draftCSharp\obj\Release\draftCSharp.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\draftCSharp\draftCSharp\obj\Release\draftCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\draftCSharp\draftCSharp\obj\Release\draftCSharp.csproj.CoreCompileInputs.cache

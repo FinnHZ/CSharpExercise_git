@@ -1,0 +1,8 @@
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\bin\Debug\ConsoleApp_test.exe.config
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\bin\Debug\ConsoleApp_test.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\bin\Debug\ConsoleApp_test.pdb
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\obj\Debug\ConsoleApp_test.csproj.AssemblyReference.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\obj\Debug\ConsoleApp_test.csproj.SuggestedBindingRedirects.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\obj\Debug\ConsoleApp_test.csproj.CoreCompileInputs.cache
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\obj\Debug\ConsoleApp_test.exe
+C:\Users\f.he\OneDrive - AuCom Group\Desktop\materials\New folder(c#)\ConsoleApp_test\ConsoleApp_test\obj\Debug\ConsoleApp_test.pdb
