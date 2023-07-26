@@ -1,0 +1,9 @@
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\bin\Debug\AwaitTEST.exe.config
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\bin\Debug\AwaitTEST.exe
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\bin\Debug\AwaitTEST.pdb
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\obj\Debug\AwaitTEST.Form1.resources
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\obj\Debug\AwaitTEST.Properties.Resources.resources
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\obj\Debug\AwaitTEST.csproj.GenerateResource.cache
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\obj\Debug\AwaitTEST.csproj.CoreCompileInputs.cache
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\obj\Debug\AwaitTEST.exe
+C:\Users\Finn\Desktop\c_sharp_exercise\AwaitTEST\obj\Debug\AwaitTEST.pdb
